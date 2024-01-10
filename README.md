@@ -3,7 +3,10 @@ Your project's description...
 
 ## Environments
 - Preview: https://main--{repo}--{owner}.hlx.page/
+- https://main--my-website--deltaworld.hlx.page/
+
 - Live: https://main--{repo}--{owner}.hlx.live/
+- https://main--my-website--deltaworld.hlx.live/
 
 ## Installation
 
